@@ -9,3 +9,14 @@ C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\COMPortTerminal.PortSettingsDial
 C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\COMPortTerminal.Properties.Resources.resources
 C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\GenerateResource.read.1.tlog
 C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Loki\DimSumManager\Manager\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\COM Port Terminal.exe
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\COM Port Terminal.pdb
+C:\Users\Loki\DimSumManager\Manager\bin\Debug\COM Port Terminal.exe
+C:\Users\Loki\DimSumManager\Manager\bin\Debug\COM Port Terminal.pdb
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Loki\DimSumManager\Manager\obj\Debug\GenerateResource.write.1.tlog

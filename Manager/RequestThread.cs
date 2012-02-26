@@ -36,7 +36,7 @@ namespace COMPortTerminal
 
         public void populateReqs()
         {
-            List<string> reqs = File.ReadAllLines("C:\\Users\\Loki\\Desktop\\Manager\\Data\\Requests.txt").ToList();
+            List<string> reqs = File.ReadAllLines("C:\\Users\\Loki\\DimSumManager\\Data\\Requests.txt").ToList();
             COMPortTerminal.RequestList reqlist = new COMPortTerminal.RequestList(reqs);
             l.DataSource = reqlist.toStringList();
             l.Refresh();

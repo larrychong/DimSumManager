@@ -58,7 +58,7 @@ namespace COMPortTerminal
 
         private void GetSettings()
         {
-            List<string> fileLines = File.ReadAllLines("C:\\Users\\Loki\\Desktop\\Manager\\Data\\Settings.txt").ToList();
+            List<string> fileLines = File.ReadAllLines("C:\\Users\\Loki\\DimSumManager\\Data\\Settings.txt").ToList();
             String tableText = fileLines[0];
             String cards = fileLines[1];
             String menu = fileLines[2];
@@ -100,7 +100,7 @@ namespace COMPortTerminal
 
         private List<String> OrderList(string s)
         {
-            String loc = "C:\\Users\\Loki\\Desktop\\Manager\\Data\\" + s + ".txt";
+            String loc = "C:\\Users\\Loki\\DimSumManager\\Data\\" + s + ".txt";
             List<String> fileLines = File.ReadAllLines(loc).ToList<String>();
             List<String> orderList = new List<String>();
             foreach (String tmp in fileLines)
