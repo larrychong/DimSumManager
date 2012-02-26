@@ -1,0 +1,11 @@
+C:\Users\Loki\Desktop\Manager\Manager\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\COM Port Terminal.exe
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\COM Port Terminal.pdb
+C:\Users\Loki\Desktop\Manager\Manager\bin\Debug\COM Port Terminal.exe
+C:\Users\Loki\Desktop\Manager\Manager\bin\Debug\COM Port Terminal.pdb
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Loki\Desktop\Manager\Manager\obj\Debug\GenerateResource.write.1.tlog
